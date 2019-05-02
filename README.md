@@ -1,0 +1,2 @@
+# PyBot
+Python Discord Bot.
